@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">DialogAlert</string>
+    <string name="hello">Hello World, DialogAlert!</string>
+</resources>

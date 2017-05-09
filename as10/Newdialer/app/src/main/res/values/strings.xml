@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">NewDialer</string>
+
+    <string name="button">拨号</string>
+</resources>
