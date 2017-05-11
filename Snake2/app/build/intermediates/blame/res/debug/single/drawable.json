@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "F:\\weather\\Snake2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\redstar.png",
+        "source": "F:\\weather\\Snake2\\app\\src\\main\\res\\drawable\\redstar.png"
+    },
+    {
+        "merged": "F:\\weather\\Snake2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\greenstar.png",
+        "source": "F:\\weather\\Snake2\\app\\src\\main\\res\\drawable\\greenstar.png"
+    },
+    {
+        "merged": "F:\\weather\\Snake2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\yellowstar2.png",
+        "source": "F:\\weather\\Snake2\\app\\src\\main\\res\\drawable\\yellowstar2.png"
+    },
+    {
+        "merged": "F:\\weather\\Snake2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\yellowstar1.png",
+        "source": "F:\\weather\\Snake2\\app\\src\\main\\res\\drawable\\yellowstar1.png"
+    }
+]

@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="x86,armeabi-v7a"
+    api-level="19"
+    density="xhdpi"
+    format="8"
+    plugin-version="2.2.3"
+    timestamp="856265172012668"
+    token="-8628787383534361571"
+    verifier="COMPATIBLE" >
+
+    <task
+        name="javac"
+        duration="183" />
+    <task
+        name="instant-run-dex"
+        duration="474" />
+    <task
+        name="instant-run-transform"
+        duration="16" />
+    <task
+        name="verifier"
+        duration="4" />
+
+    <artifact
+        location="F:\weather\Snake2\app\build\intermediates\reload-dex\debug\classes.dex"
+        type="RELOAD_DEX" />
+
+    <build
+        timestamp="853387935170573"
+        verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="F:\weather\Snake2\app\build\outputs\apk\app-debug.apk"
+            type="MAIN" />
+    </build>
+    <build
+        timestamp="853446963649709"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="F:\weather\Snake2\app\build\intermediates\builds\debug\853446963649709\classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        timestamp="853467557910137"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="F:\weather\Snake2\app\build\intermediates\builds\debug\853467557910137\classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        timestamp="853657266254162"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="F:\weather\Snake2\app\build\intermediates\builds\debug\853657266254162\classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        timestamp="853694432195708"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="F:\weather\Snake2\app\build\intermediates\builds\debug\853694432195708\classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        timestamp="853742146042462"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="F:\weather\Snake2\app\build\intermediates\builds\debug\853742146042462\classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        timestamp="854686898816035"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="F:\weather\Snake2\app\build\intermediates\builds\debug\854686898816035\classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        timestamp="856265172012668"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="F:\weather\Snake2\app\build\intermediates\reload-dex\debug\classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+
+</instant-run>

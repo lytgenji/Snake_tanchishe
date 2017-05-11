@@ -1,0 +1,107 @@
+ECLIPSE ANDROID PROJECT IMPORT SUMMARY
+======================================
+
+Ignored Files:
+--------------
+The following files were *not* copied into the new Gradle project; you
+should evaluate whether these are still needed in your project and if
+so manually move them:
+
+* .gitignore
+* README.md
+* Snake\
+* Snake\.gitignore
+* Snake\app\
+* Snake\app\.gitignore
+* Snake\app\build.gradle
+* Snake\app\proguard-rules.pro
+* Snake\app\src\
+* Snake\app\src\androidTest\
+* Snake\app\src\androidTest\java\
+* Snake\app\src\androidTest\java\com\
+* Snake\app\src\androidTest\java\com\elims\
+* Snake\app\src\androidTest\java\com\elims\snake\
+* Snake\app\src\androidTest\java\com\elims\snake\ApplicationTest.java
+* Snake\app\src\main\
+* Snake\app\src\main\AndroidManifest.xml
+* Snake\app\src\main\java\
+* Snake\app\src\main\java\com\
+* Snake\app\src\main\java\com\elims\
+* Snake\app\src\main\java\com\elims\snake\
+* Snake\app\src\main\java\com\elims\snake\base\
+* Snake\app\src\main\java\com\elims\snake\base\BaseAvtivity.java
+* Snake\app\src\main\java\com\elims\snake\base\BaseView.java
+* Snake\app\src\main\java\com\elims\snake\bean\
+* Snake\app\src\main\java\com\elims\snake\bean\Food.java
+* Snake\app\src\main\java\com\elims\snake\bean\Point.java
+* Snake\app\src\main\java\com\elims\snake\bean\Snake.java
+* Snake\app\src\main\java\com\elims\snake\constant\
+* Snake\app\src\main\java\com\elims\snake\constant\Constant.java
+* Snake\app\src\main\java\com\elims\snake\ui\
+* Snake\app\src\main\java\com\elims\snake\ui\Game.java
+* Snake\app\src\main\java\com\elims\snake\ui\GameInterface.java
+* Snake\app\src\main\java\com\elims\snake\view\
+* Snake\app\src\main\java\com\elims\snake\view\SnakeView.java
+* Snake\app\src\main\java\com\elims\snake\view\SnakeViewInterface.java
+* Snake\app\src\main\res\
+* Snake\app\src\main\res\layout\
+* Snake\app\src\main\res\layout\game.xml
+* Snake\app\src\main\res\mipmap-hdpi\
+* Snake\app\src\main\res\mipmap-hdpi\button.png
+* Snake\app\src\main\res\mipmap-hdpi\ic_launcher.png
+* Snake\app\src\main\res\mipmap-hdpi\move_button.png
+* Snake\app\src\main\res\mipmap-mdpi\
+* Snake\app\src\main\res\mipmap-mdpi\ic_launcher.png
+* Snake\app\src\main\res\mipmap-xhdpi\
+* Snake\app\src\main\res\mipmap-xhdpi\ic_launcher.png
+* Snake\app\src\main\res\mipmap-xxhdpi\
+* Snake\app\src\main\res\mipmap-xxhdpi\ic_launcher.png
+* Snake\app\src\main\res\mipmap-xxxhdpi\
+* Snake\app\src\main\res\mipmap-xxxhdpi\ic_launcher.png
+* Snake\app\src\main\res\values\
+* Snake\app\src\main\res\values\colors.xml
+* Snake\app\src\main\res\values\strings.xml
+* Snake\app\src\main\res\values\styles.xml
+* Snake\app\src\test\
+* Snake\app\src\test\java\
+* Snake\app\src\test\java\com\
+* Snake\app\src\test\java\com\elims\
+* Snake\app\src\test\java\com\elims\snake\
+* Snake\app\src\test\java\com\elims\snake\ExampleUnitTest.java
+* Snake\build.gradle
+* Snake\gradle.properties
+* Snake\gradle\
+* Snake\gradle\wrapper\
+* Snake\gradle\wrapper\gradle-wrapper.jar
+* Snake\gradle\wrapper\gradle-wrapper.properties
+* Snake\gradlew
+* Snake\gradlew.bat
+* Snake\settings.gradle
+* default.properties
+* tests\
+* tests\build.properties
+
+Moved Files:
+------------
+Android Gradle projects use a different directory structure than ADT
+Eclipse projects. Here's how the projects were restructured:
+
+* AndroidManifest.xml => app\src\main\AndroidManifest.xml
+* assets\ => app\src\main\assets
+* res\ => app\src\main\res\
+* src\ => app\src\main\java\
+
+Next Steps:
+-----------
+You can now build the project. The Gradle project needs network
+connectivity to download dependencies.
+
+Bugs:
+-----
+If for some reason your project does not build, and you determine that
+it is due to a bug or limitation of the Eclipse to Gradle importer,
+please file a bug at http://b.android.com with category
+Component-Tools.
+
+(This import summary is for your information only, and can be deleted
+after import once you are satisfied with the results.)

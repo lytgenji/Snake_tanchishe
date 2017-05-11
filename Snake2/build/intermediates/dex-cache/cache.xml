@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="F:\weather\Snake2\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="746f147f81974fdad99e1663379f0ff2b177f0f0">
+        <dex dex="F:\weather\Snake2\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_c89e65f69a1b0806693ed402be18bb975124f7b5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\weather\Snake2\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3629bd19510b44f3cfded72fddc585f0708b5f09">
+        <dex dex="F:\weather\Snake2\app\build\intermediates\pre-dexed\debug\instant-run_197a577bdc9f051462f8e79510b247ef3d1fe481.jar" />
+    </item>
+
+</items>
